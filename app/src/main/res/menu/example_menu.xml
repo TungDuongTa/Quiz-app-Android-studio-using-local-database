@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/logo"
+        android:title="Home"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/QuizRule"
+        android:icon="@drawable/logo"
+        android:title="Quiz Rule/Instruction"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/attemp"
+        android:icon="@drawable/logo"
+        android:title="Attemp"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/passwordChange"
+        android:icon="@drawable/logo"
+        android:title="Password Change"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/logOut"
+        android:icon="@drawable/logo"
+        android:title="Log Out"
+        app:showAsAction="never" />
+
+
+</menu>
